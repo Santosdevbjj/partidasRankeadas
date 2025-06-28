@@ -50,6 +50,12 @@ Se vitórias for entre 21 e 50 = nível Prata
 "O Herói tem de saldo de {saldoVitorias} está no nível de {nivel}"
 
 
+**O Repositório é composto pelos seguintes arquivos:**
+
+**Readme.md:** Descrição geral do desafio de projeto.
+
+**calcRankeada.js:** Programa em Javascript de partidas rankeadas.
+
 
 
 
